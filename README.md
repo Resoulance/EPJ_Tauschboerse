@@ -1,30 +1,43 @@
 # EPJ_Tauschboerse
 
 # [Core]
-* User Registration
+* User Registration -> optional??
 * Login
 * Need/Have List 
 * 1 - 1 Tausch
 
 # [Optional]
 * Best Match bei Mehrfachsuche
-* 1 - n Tausch
+* n - n Tausch
 * Kommunikation
 * Statistik(Most Need, Most Have, etc...)
 * Werteinschätzung 
+* Random swap, when users subscribe
 
 # [Technology]
-* JavaScript
-* HTML / Handlebars
-* Node JS??? Angular???
+* Front End
+    * JavaScript oder typescript??
+    * HTML / Handlebars
+    * SASS
+    * Font Awesome
+* Back End
+    * Node JS??? Angular???
+        * Expresss
+
 
 # [Testing]
 * Karma for JS???
 
 # [Server]
+* Für RedMine oder unsere Applikation??
+* Linux (debian or ubuntu)
 
 # [Dokumentation]
 * LaTex
 * RedMine - Zeitverwaltung
 
+# [Code Verwaltung]
+* Private Github repository
+
 # []
+
