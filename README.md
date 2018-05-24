@@ -19,11 +19,12 @@
 * Node JS??? Angular???
 
 # [Testing]
-*
+* Karma for JS???
 
 # [Server]
 
 # [Dokumentation]
 * LaTex
+* RedMine - Zeitverwaltung
 
 # []
