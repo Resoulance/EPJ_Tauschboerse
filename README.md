@@ -19,8 +19,9 @@
 # [Testing]
 *
 
-# []
+# [Server]
 
-# []
+# [Dokumentation]
+* LaTech
 
 # []
