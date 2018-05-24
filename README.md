@@ -8,7 +8,7 @@
 
 # [Optional]
 * Best Match bei Mehrfachsuche
-* n - n Tausch
+* 1 - n Tausch
 * Kommunikation
 * Statistik(Most Need, Most Have, etc...)
 * Werteinschätzung 
