@@ -11,10 +11,12 @@
 * n - n Tausch
 * Kommunikation
 * Statistik(Most Need, Most Have, etc...)
+* Werteinschätzung 
 
 # [Technology]
 * JavaScript
-* Node??? Angular???
+* HTML / Handlebars
+* Node JS??? Angular???
 
 # [Testing]
 *
