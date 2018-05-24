@@ -24,6 +24,6 @@
 # [Server]
 
 # [Dokumentation]
-* LaTech
+* LaTex
 
 # []
