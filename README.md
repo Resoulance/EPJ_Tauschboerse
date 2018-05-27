@@ -8,6 +8,10 @@
 * 1 - 1 Tausch
 
 # [Optional]
+* Page to simply add all the cards or whatever item which will be exchanged 
+* Remove cards (because of damage)
+* Rate users (trustworthy, ...)
+* Ban users
 * Best Match bei Mehrfachsuche
 * n - n Tausch
 * Kommunikation
@@ -32,7 +36,7 @@
 
 
 # [Testing]
-* Karma for JS???
+* Karma for JS??? Just for Angular? Without Angular Mocha?
 
 # [Server]
 * Für RedMine oder unsere Applikation??
