@@ -4,22 +4,24 @@
 * User Registration -> optional??
 * Login
 * In possession / owned item list  (when there are several matches: first match? list? based on what can the user choose? )
-* ?? Is it possible to exchange non-dublicates? By user request -> optional?
+* ?? Is it possible to exchange non-dublicates? By user request -> optional? (Bei Panini klebt man die Bilder ein und somit kann man die Bilder nicht mehr weitertauschen)
 * 1 - 1 Tausch
 
 # [Optional]
 * Page to simply add all the cards or whatever item which will be exchanged 
 * Remove cards (because of damage)
 * Rate users (trustworthy, ...)
-* Ban users
 * Best Match bei Mehrfachsuche
 * n - n Tausch
 * Kommunikation
+   *Nachrichtenbox
 * Statistik(Most Need, Most Have, etc...)
 * Werteinschätzung 
 * Random swap, when users subscribe
 * Simple wrapper, which opens our responsive website in an android app
     * for iOS as well
+* Admin Panel
+    * Ban users
 
 # [Technology]
 * Front End
@@ -31,7 +33,7 @@
     * Node JS??? Angular??? React??
         * Express
         * Passport.js
-    * Database, MongoDB, NoSQL??
+    * Database: Postgres würd ich vorschlagen / (Mongo DB, NoSQL)
     * Grunt
 
 
@@ -39,7 +41,7 @@
 * Karma for JS??? Just for Angular? Without Angular Mocha?
 
 # [Server]
-* Für RedMine oder unsere Applikation??
+* Für RedMine für Zeitverwaltung - Server wird von der HSR bereit gestellt
 * Linux (debian or ubuntu)
 
 # [Dokumentation]
