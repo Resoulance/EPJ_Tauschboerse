@@ -3,7 +3,7 @@
 # [Core]
 * Login
 * In possession / owned item list  (when there are several matches: first match? list? based on what can the user choose? )
-* ?? Is it possible to exchange non-dublicates? By user request -> optional? (Bei Panini klebt man die Bilder ein und somit kann man die Bilder nicht mehr weitertauschen)
+* ?? Is it possible to exchange non-duplicates? By user request -> optional? (Bei Panini klebt man die Bilder ein und somit kann man die Bilder nicht mehr weitertauschen)
 * 1 - 1 Tausch
 
 # [Optional]
