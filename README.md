@@ -8,6 +8,7 @@
 
 # [Optional]
 * User Registration
+* Transaction History
 * Page to simply add all the cards or whatever item which will be exchanged 
 * Remove cards (because of damage)
 * Rate users (trustworthy, ...)
