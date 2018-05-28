@@ -1,13 +1,13 @@
 # EPJ_Tauschboerse
 
 # [Core]
-* User Registration -> optional??
 * Login
 * In possession / owned item list  (when there are several matches: first match? list? based on what can the user choose? )
 * ?? Is it possible to exchange non-dublicates? By user request -> optional? (Bei Panini klebt man die Bilder ein und somit kann man die Bilder nicht mehr weitertauschen)
 * 1 - 1 Tausch
 
 # [Optional]
+* User Registration
 * Page to simply add all the cards or whatever item which will be exchanged 
 * Remove cards (because of damage)
 * Rate users (trustworthy, ...)
