@@ -18,6 +18,7 @@
 * Statistik(Most Need, Most Have, etc...)
 * Werteinschätzung 
 * Random swap, when users subscribe
+* inactive user check => search exclusion
 * Simple wrapper, which opens our responsive website in an android app
     * for iOS as well
 * Admin Panel
