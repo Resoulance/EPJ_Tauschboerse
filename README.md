@@ -67,7 +67,7 @@
 * Login-Screen
 * Bildersuche-Screen
 * Ergebnisse mit Liste von Usern, die das Bild haben-Screen -> Ergebnis-Screen
-* 
+* ...
 
 
 # [Use Cases - Brief]
