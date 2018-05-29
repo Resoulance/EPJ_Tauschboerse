@@ -63,18 +63,18 @@
 
 
 
-* [Screens]
+# [Screens]
 * Login-Screen
 * Bildersuche-Screen
 * Ergebnisse mit Liste von Usern, die das Bild haben-Screen -> Ergebnis-Screen
 * 
 
 
-* Brief - Use Cases
+# [Use Cases - Brief]
 * Use Case Suchen nach Panini-Bilder
-* Auf dem Bildersuche-Screen gibt es ein Input-Feld. In dieses Input-Feld kann der User sein gewünschtes Panini-Bild (Nummer) eingeben und mit Button "Suchen" suchen.
+** Auf dem Bildersuche-Screen gibt es ein Input-Feld. In dieses Input-Feld kann der User sein gewünschtes Panini-Bild (Nummer) eingeben und mit Button "Suchen" suchen.
 
-Use Case Tausch-Request erstellen
-* Wenn ein Bild gefunden wurde mit Use Case "Suchen nach Panini-Bilder", werden alle User, die das Bild besitzen, angezeigt. Der Suchende kann einen Bild-Besitzer auswählen und mit dem Button "Tauschen" auf dem Ergebnis-Screen einen Request an den Bildbesitzer absetzen.
+* Use Case Tausch-Request erstellen
+** Wenn ein Bild gefunden wurde mit Use Case "Suchen nach Panini-Bilder", werden alle User, die das Bild besitzen, angezeigt. Der Suchende kann einen Bild-Besitzer auswählen und mit dem Button "Tauschen" auf dem Ergebnis-Screen einen Request an den Bildbesitzer absetzen.
 
 
