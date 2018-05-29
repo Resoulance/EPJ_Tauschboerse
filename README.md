@@ -9,17 +9,18 @@
 * Suche nach "need"-Item 
 
 # [Optional]
-*[high]
+* [high]
    * Transaction History
    * Item entfernen (because of damage, nicht mehr vorhanden)
    * Check auf inaktiver User => wird weniger gewichtet/priotisiert
    * Statistik(Most Need, Most Have, etc...)
 
-*[mid]
+* [mid]
    * Kommunikation
       *Nachrichtenbox
    * Rate users (trustworthy, ...)
-*[low]
+
+* [low]
    * User Registration
    * Best Match bei Mehrfachsuche
    * n - n Tausch
