@@ -6,7 +6,6 @@
 * ?? Is it possible to exchange non-duplicates? By user request -> optional? (Bei Panini klebt man die Bilder ein und somit kann man die Bilder nicht mehr weitertauschen)
 * 1 - 1 Tausch
 
-
 # [Optional]
 * User Registration
 * Transaction History
@@ -39,29 +38,19 @@
     * Database: Postgres würd ich vorschlagen / (Mongo DB, NoSQL)
     * Grunt
 
-
 # [Testing]
-* Karma for JS??? Just for Angular? Without Angular Mocha?
+* Karma for JS??? Just for Angular? Without Angular Mocha? => spreedy fragen
 
-# [Server]
-* Für RedMine für Zeitverwaltung - Server wird von der HSR bereit gestellt
-* Linux (debian or ubuntu)
+# [Server] - Server wird von der HSR bereit gestellt
+* Für JIRA für Zeitverwaltung 
+* Node.JS with tomcat (Application Server)
 
-# [Dokumentation]
+# [Dokumentation & Projektverwaltung]
 * LaTex, just if no word document is required
-* RedMine - Zeitverwaltung
+* JIRA [https://de.atlassian.com/software/jira/core]   - Zeitverwaltung (anstatt RedMine)
 
 # [Code Verwaltung]
 * Private Github repository
-
-# []
-
-
-
-# [Helpful links]
-* https://www.ctl.io/developers/blog/post/build-user-authentication-with-node-js-express-passport-and-mongodb
-
-
 
 # [Screens]
 * Login-Screen
@@ -73,7 +62,6 @@
 # [Actors]
 * Anbieter
 * Sucher
-
 
 # [Use Cases - Brief]
 * Use Case Suchen nach Panini-Bilder
@@ -87,5 +75,8 @@
 
 * Use Case Tauschbilder tauschen
 ** Nach dem Tausch-Request nimmt der Anbieter den Request an. Der Tausch wird im System vermerkt. Eine Bestätigung wird auf dem Transaktionsscreen beiden Usern angezeigt.
+
+# [Helpful links]
+* https://www.ctl.io/developers/blog/post/build-user-authentication-with-node-js-express-passport-and-mongodb
 
 
