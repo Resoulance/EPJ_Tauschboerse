@@ -2,43 +2,51 @@
 
 # [Core]
 * Login
-* In possession / owned item list  (when there are several matches: first match? list? based on what can the user choose? )
-* ?? Is it possible to exchange non-duplicates? By user request -> optional? (Bei Panini klebt man die Bilder ein und somit kann man die Bilder nicht mehr weitertauschen)
+* User mit Liste
+** "need"-Item
+** "have"-Item
 * 1 - 1 Tausch
+* Suche nach "need"-Item 
 
 # [Optional]
-* User Registration
+**[high]
 * Transaction History
-* Page to simply add all the cards or whatever item which will be exchanged 
-* Remove cards (because of damage)
+* Item entfernen (because of damage, nicht mehr vorhanden)
+* Check auf inaktiver User => wird weniger gewichtet/priotisiert
+* Statistik(Most Need, Most Have, etc...)
+
+**[mid]
+* Kommunikation
+**Nachrichtenbox
+
 * Rate users (trustworthy, ...)
+**[low]
+* User Registration
 * Best Match bei Mehrfachsuche
 * n - n Tausch
-* Kommunikation
-   *Nachrichtenbox
-* Statistik(Most Need, Most Have, etc...)
-* Werteinschätzung 
+* Werteinschätzung
 * Random swap, when users subscribe
-* inactive user check => search exclusion
+* Page to simply add all the cards or whatever item which will be exchanged 
 * Simple wrapper, which opens our responsive website in an android app
     * for iOS as well
-* Admin Panel
-    * Ban users
+*Security
+**Admin Panel
+***Ban users
 
-# [Technology]
+# [mögliche Technologien]
 * Front End
-    * JavaScript oder typescript??
-    * HTML / Handlebars
-    * SASS
-    * Font Awesome
+** Typescript
+** HTML / Handlebars
+** SASS
+*** Font Awesome
 * Back End
-    * Node JS??? Angular??? React??
-        * Express
-        * Passport.js
-    * Database: Postgres würd ich vorschlagen / (Mongo DB, NoSQL)
-    * Grunt
+** Node JS??? (Angular??? React??)
+*** Express
+*** Passport.js
+** Database: Postgres würd ich vorschlagen / (Mongo DB, NoSQL)
+** Grunt
 
-# [Testing]
+# [Testing] - noch offen
 * Karma for JS??? Just for Angular? Without Angular Mocha? => spreedy fragen
 
 # [Server] - Server wird von der HSR bereit gestellt
@@ -47,10 +55,10 @@
 
 # [Dokumentation & Projektverwaltung]
 * LaTex, just if no word document is required
-* JIRA [https://de.atlassian.com/software/jira/core]   - Zeitverwaltung (anstatt RedMine)
+* JIRA [https://de.atlassian.com/software/jira/core] - Zeitverwaltung (anstatt RedMine)
 
-# [Code Verwaltung]
-* Private Github repository
+# [Code Verwaltung] - wird privat gestellt sobald Projektantrag akzeptiert wird
+* Private Github repository [https://github.com/Resoulance/EPJ_Tauschboerse]
 
 # [Screens]
 * Login-Screen
