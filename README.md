@@ -6,7 +6,7 @@
 ** "required/wished"-Items
 ** "possessed"-Items
 * 1 - 1 Tausch
-* Suche nach "need"-Item 
+* Suche nach "required/wished"-Item 
 
 # [Optional]
 * [high]
