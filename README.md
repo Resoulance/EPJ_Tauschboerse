@@ -14,6 +14,7 @@
    * Item entfernen (because of damage, nicht mehr vorhanden)
    * Check auf inaktiver User => wird weniger gewichtet/priotisiert
    * Statistik(Most Need, Most Have, etc...)
+   * https with lets encrypt
 
 * [mid]
    * Kommunikation
@@ -34,12 +35,19 @@
       * Admin Panel
          * Ban users
 
+* [Non Functional Requirements]
+   * Accessablity (red green weakness, ...)
+
+* [Limitation]
+   * No IE and Edge support
+
 # [mögliche Technologien]
 * Front End
    * Typescript
    * HTML / Handlebars
    * SASS
-      * Font Awesome
+   * Font Awesome
+   * CSS grid or Bootstrap
 * Back End
    * Typescript
    * Node JS??? (Angular??? React??)
