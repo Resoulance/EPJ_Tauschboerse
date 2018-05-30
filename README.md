@@ -3,8 +3,8 @@
 # [Core]
 * Login
 * User mit Liste
-** "required/wished"-Items
-** "possessed"-Items
+  * "required/wished"-Items
+  * "possessed"-Items
 * 1 - 1 Tausch
 * Suche nach "required/wished"-Item 
 
