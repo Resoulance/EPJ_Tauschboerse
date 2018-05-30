@@ -3,8 +3,8 @@
 # [Core]
 * Login
 * User mit Liste
-** "need"-Item
-** "have"-Item
+** "required/wished"-Items
+** "possessed"-Items
 * 1 - 1 Tausch
 * Suche nach "need"-Item 
 
@@ -17,21 +17,22 @@
 
 * [mid]
    * Kommunikation
-      *Nachrichtenbox
+      * Nachrichtenbox
    * Rate users (trustworthy, ...)
 
 * [low]
    * User Registration
    * Best Match bei Mehrfachsuche
    * n - n Tausch
+   * Multible language support
    * Werteinschätzung
    * Random swap, when users subscribe
    * Page to simply add all the cards or whatever item which will be exchanged 
    * Simple wrapper, which opens our responsive website in an android app
       * for iOS as well
-   *Security
-      *Admin Panel
-         *Ban users
+   * Security
+      * Admin Panel
+         * Ban users
 
 # [mögliche Technologien]
 * Front End
@@ -40,11 +41,12 @@
    * SASS
       * Font Awesome
 * Back End
+   * Typescript
    * Node JS??? (Angular??? React??)
       * Express
       * Passport.js
    * Database: Postgres würd ich vorschlagen / (Mongo DB, NoSQL)
-   * Grunt
+   * Grunt or Webpack
 
 # [Testing] - noch offen
 * Karma for JS??? Just for Angular? Without Angular Mocha? => spreedy fragen
