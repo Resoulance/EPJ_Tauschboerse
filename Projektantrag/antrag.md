@@ -4,10 +4,10 @@ Projektantrag "Codename Tauschboerse"
 
 # 2. Team
 
-Conan Le, conan.le@hsr.ch
-Rolf Furrer, rolf.furrer@hsr.ch
-Sinthujan Lohanathan, sinthujan.lohanathan@hsr.ch
-Thomas Elsensohn,  thomas.elsensohn@hsr.ch
+* Conan Le, conan.le@hsr.ch
+* Rolf Furrer, rolf.furrer@hsr.ch
+* Sinthujan Lohanathan, sinthujan.lohanathan@hsr.ch
+* Thomas Elsensohn,  thomas.elsensohn@hsr.ch
 
 
 
