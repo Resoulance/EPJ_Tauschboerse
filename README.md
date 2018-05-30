@@ -25,7 +25,7 @@
    * User Registration
    * Best Match bei Mehrfachsuche
    * n - n Tausch
-   * Multible language support
+   * Multiple language support
    * Werteinschätzung
    * Random swap, when users subscribe
    * Page to simply add all the cards or whatever item which will be exchanged 
