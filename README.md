@@ -2,16 +2,18 @@
 
 # [Core]
 * Login
-* User mit Liste
+* User mit Liste (Tauschobjekte)
   * "required/wished"-Items
   * "possessed"-Items
 * 1 - 1 Tausch
 * Suche nach "required/wished"-Item 
+* Collection - Wahl des System (Erweiterbarkeit)
+
 
 # [Optional]
 * [high]
-   * Transaction History
-   * Item entfernen (because of damage, nicht mehr vorhanden)
+   * Transaction History - Übersicht
+   * Item entfernen (because of damage, nicht mehr vorhanden) - Qualität
    * Check auf inaktiver User => wird weniger gewichtet/priotisiert
    * Statistik(Most Need, Most Have, etc...)
    * https with lets encrypt
@@ -41,27 +43,36 @@
 * [Limitation]
    * No IE and Edge support
 
-# [mögliche Technologien]
+# [ToolChain]
 * Front End
    * Typescript
+   * React
    * HTML / Handlebars
    * SASS
    * Font Awesome
    * CSS grid or Bootstrap
 * Back End
    * Typescript
-   * Node JS??? (Angular??? React??)
+   * Node JS
       * Express
       * Passport.js
-   * Database: Postgres würd ich vorschlagen / (Mongo DB, NoSQL)
-   * Grunt or Webpack
+   * Database: PostgreSQL
+   * Webpack
+   * REST + Swagger [https://swagger.io/]
+   
+   eventuell Java mit Spring Boot
+   
+# [Continious Integration]
+* ?Travis
+* ?Jenkins
+* ?TeamCity
 
-# [Testing] - noch offen
-* Karma for JS??? Just for Angular? Without Angular Mocha? => spreedy fragen
+# [Unit Testing]
+* Jasmine
 
 # [Server] - Server wird von der HSR bereit gestellt
 * Für JIRA für Zeitverwaltung 
-* Node.JS with tomcat (Application Server)
+* ?Node.JS with tomcat (Application Server)
 
 # [Projektverwaltung & Dokumentation]
 * LaTex, just if no word document is required
